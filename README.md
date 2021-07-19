@@ -1,1 +1,3 @@
-# csc401
+# csc401 - Introduction to Programming
+
+
